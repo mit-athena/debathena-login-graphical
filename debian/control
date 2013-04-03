@@ -2,8 +2,8 @@ Source: debathena-login-graphical
 Section: debathena/base
 Priority: extra
 Maintainer: Debathena Project <debathena@mit.edu>
-Build-Depends: @cdbs@
-Standards-Version: 3.9.1
+Build-Depends: cdbs, debhelper, dh-buildinfo
+Standards-Version: 3.9.3
 
 Package: debathena-login-graphical
 X-Debathena-No-Build: hardy
